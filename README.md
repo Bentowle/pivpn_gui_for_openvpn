@@ -5,4 +5,4 @@ work correctly .
 
 
 open .py file and replace your filepath and file name. and add your sudo name, sudo pass word, and you pivpn password
-that relates to you .ovpn file. 
+that relates to you .ovpn file.  let me know if there is any changes that i should make.
